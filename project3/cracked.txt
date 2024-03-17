@@ -1,0 +1,3 @@
+alice:1337cr4ck1ngsk1llz
+bob:weak1234
+charlie:lalala
